@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\dnmFactorial\dnmFactorial\bin\Debug\netcoreapp3.1\dnmFactorial.exe
+C:\Users\PC\source\repos\dnmFactorial\dnmFactorial\bin\Debug\netcoreapp3.1\dnmFactorial.deps.json
+C:\Users\PC\source\repos\dnmFactorial\dnmFactorial\bin\Debug\netcoreapp3.1\dnmFactorial.runtimeconfig.json
+C:\Users\PC\source\repos\dnmFactorial\dnmFactorial\bin\Debug\netcoreapp3.1\dnmFactorial.runtimeconfig.dev.json
+C:\Users\PC\source\repos\dnmFactorial\dnmFactorial\bin\Debug\netcoreapp3.1\dnmFactorial.dll
+C:\Users\PC\source\repos\dnmFactorial\dnmFactorial\bin\Debug\netcoreapp3.1\dnmFactorial.pdb
+C:\Users\PC\source\repos\dnmFactorial\dnmFactorial\obj\Debug\netcoreapp3.1\dnmFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\dnmFactorial\dnmFactorial\obj\Debug\netcoreapp3.1\dnmFactorial.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\dnmFactorial\dnmFactorial\obj\Debug\netcoreapp3.1\dnmFactorial.AssemblyInfo.cs
+C:\Users\PC\source\repos\dnmFactorial\dnmFactorial\obj\Debug\netcoreapp3.1\dnmFactorial.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\dnmFactorial\dnmFactorial\obj\Debug\netcoreapp3.1\dnmFactorial.dll
+C:\Users\PC\source\repos\dnmFactorial\dnmFactorial\obj\Debug\netcoreapp3.1\dnmFactorial.pdb
+C:\Users\PC\source\repos\dnmFactorial\dnmFactorial\obj\Debug\netcoreapp3.1\dnmFactorial.genruntimeconfig.cache
+C:\Users\PC\source\repos\dnmFactorial\dnmFactorial\obj\Debug\netcoreapp3.1\dnmFactorial.csproj.AssemblyReference.cache
